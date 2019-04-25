@@ -1,0 +1,24 @@
+{
+    "name": "astuce-gemmes-sur-cooking-fever-francais/avoir-des-gemmes-gratuit-sur-cooking-fever-2019-android-et-ios",
+    "type": "library",
+    "description": "Générateur gemmes En ligne sur cooking fever pour Android et iOS 2019 - gemmes illimités,",
+    "keywords": ["gemmes gratuit cooking fever","gemmes illimités cooking fever","comment avoir des gemmes sur cooking fever"],
+    "homepage": "http://bit.ly/Cooking_Fever_en_Francais",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Comment Avoir Des gemmes en cooking fever illimités Gratuit Android et iOS [Générateur gemmes illimités en cooking fever] 2019 CLIQUEZ ICI POUR GENERER EN LIGNE",
+            "website": "http://bit.ly/Cooking_Fever_en_Francais",
+            "homepage": "http://bit.ly/Cooking_Fever_en_Francais",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
